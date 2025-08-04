@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+tensorflow
+ipykernel
+requests
+tqdm
+pillow
+streamlit
